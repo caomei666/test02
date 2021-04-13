@@ -514,6 +514,11 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2fb73f" />
+      </value>
+    </option>
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="57cfd6" />
