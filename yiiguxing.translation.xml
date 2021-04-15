@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="brand" />
       <item value="volume" />
       <item value="print" />
       <item value="println" />
