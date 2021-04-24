@@ -40,7 +40,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6ca3c9" />
+        <option name="FOREGROUND" value="73afd6" />
       </value>
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
@@ -516,7 +516,17 @@
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="2fb73f" />
+        <option name="FOREGROUND" value="2fba42" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="28ae38" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="35e340" />
       </value>
     </option>
     <option name="JAVA_STRING">
