@@ -1,7 +1,7 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -547,7 +547,6 @@
     <option name="JS.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="39e24d" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DOC_COMMENT">
