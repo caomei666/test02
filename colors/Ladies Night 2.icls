@@ -1,7 +1,7 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -537,6 +537,17 @@
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="57cfd6" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="50d6d5" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="d5d57e" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
