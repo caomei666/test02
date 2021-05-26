@@ -3,7 +3,7 @@
     <property name="created">2021-04-25T08:21:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2021-05-26T19:33:09</property>
+    <property name="modified">2021-05-26T19:43:26</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -33,19 +33,19 @@
     </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="1dcb5c" />
+        <option name="FOREGROUND" value="179947" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="38e24d" />
+        <option name="FOREGROUND" value="2ca93d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="2bef3d" />
+        <option name="FOREGROUND" value="21b22d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
