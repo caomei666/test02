@@ -588,6 +588,11 @@
         <option name="FOREGROUND" value="279cfd" />
       </value>
     </option>
+    <option name="JSP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="28d434" />
+      </value>
+    </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value />
     </option>
