@@ -588,6 +588,11 @@
         <option name="FOREGROUND" value="279cfd" />
       </value>
     </option>
+    <option name="JSP_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="699cdf" />
+      </value>
+    </option>
     <option name="JSP_COMMENT">
       <value>
         <option name="FOREGROUND" value="28d434" />
