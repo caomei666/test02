@@ -588,6 +588,11 @@
         <option name="FOREGROUND" value="279cfd" />
       </value>
     </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="5ad8f6" />
+      </value>
+    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="699cdf" />
