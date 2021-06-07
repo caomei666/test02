@@ -467,7 +467,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="f2ab11" />
+        <option name="FOREGROUND" value="2cdff2" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -586,6 +586,11 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="279cfd" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="e89416" />
       </value>
     </option>
     <option name="JSON.STRING">
