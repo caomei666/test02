@@ -1,5 +1,5 @@
 <templateSet group="mybatis">
-  <template name="mapper" value="11" description="mybatis映射文件模板" toReformat="false" toShortenFQNames="true">
+  <template name="mapper" value="11" description="mybatis映射文件模板" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="XML" value="true" />
     </context>
