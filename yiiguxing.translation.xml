@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fate" />
+      <item value="fateValue" />
       <item value="Numeric" />
       <item value="cellspacing" />
       <item value="cellpadding" />
@@ -22,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
