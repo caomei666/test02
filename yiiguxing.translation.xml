@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRIMITIVE" />
       <item value="IllegalArgumentException" />
       <item value="Recommend" />
       <item value="fate" />
