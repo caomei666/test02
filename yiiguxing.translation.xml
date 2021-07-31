@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recommend" />
       <item value="movement" />
       <item value="warps" />
       <item value="comment" />
@@ -8,7 +9,6 @@
       <item value="ModifyOption" />
       <item value="PRIMITIVE" />
       <item value="IllegalArgumentException" />
-      <item value="Recommend" />
       <item value="fate" />
       <item value="fateValue" />
       <item value="Numeric" />
