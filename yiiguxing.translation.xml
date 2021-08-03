@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coordinates" />
       <item value="latitude" />
       <item value="exisit" />
       <item value="metrics" />
