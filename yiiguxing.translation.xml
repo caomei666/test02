@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="metrics" />
+      <item value="circle" />
       <item value="contacts" />
       <item value="stranger" />
       <item value="converter" />
