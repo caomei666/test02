@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="circle" />
+      <item value="shape" />
+      <item value="withinSphere" />
+      <item value="within" />
+      <item value="neutral" />
+      <item value="miles" />
       <item value="coordinates" />
       <item value="latitude" />
       <item value="exisit" />
       <item value="metrics" />
-      <item value="circle" />
       <item value="contacts" />
       <item value="stranger" />
       <item value="converter" />
