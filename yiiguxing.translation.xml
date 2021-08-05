@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="circle" />
       <item value="shape" />
       <item value="withinSphere" />
