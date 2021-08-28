@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicates" />
       <item value="Component" />
       <item value="contact" />
       <item value="Movement" />
@@ -50,12 +51,11 @@
       <item value="PLUGIN" />
       <item value="CLIENT" />
       <item value="Non Transient" />
-      <item value="Global Config Utils" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
