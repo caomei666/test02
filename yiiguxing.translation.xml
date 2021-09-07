@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="UNAUTHORIZED" />
+      <item value="Generic" />
       <item value="wemedia" />
+      <item value="wemedis" />
+      <item value="UNAUTHORIZED" />
       <item value="expiration" />
       <item value="discovery" />
       <item value="Fragment" />
@@ -49,13 +51,11 @@
       <item value="reverse" />
       <item value="brand" />
       <item value="volume" />
-      <item value="print" />
-      <item value="println" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
